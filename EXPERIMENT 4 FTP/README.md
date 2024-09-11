@@ -1,5 +1,5 @@
 FTP
-Experiment : 6
+Experiment : 4
 Aim : To create and configure FTP Server
 Description :
 FTP Server

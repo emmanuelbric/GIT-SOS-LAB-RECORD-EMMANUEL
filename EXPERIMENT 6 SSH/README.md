@@ -1,5 +1,5 @@
 SSH
-Experiment: 3
+Experiment: 6
 Aim: Installation of Open SSH between two ubuntu machines.
 Description:
 Remote File Sharing using SSH
